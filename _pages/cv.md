@@ -28,7 +28,7 @@ Work experience
 
 * Spring 2020: Research Assistant
   * New York University
-  * Duties included: Unconventional Superconductivity and Topological Insulator
+  * Unconventional Superconductivity and Topological Insulator
   * Supervisor: Prof. Hanghui Chen
 
 Publications
