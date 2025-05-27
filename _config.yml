@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "H. Liu"
 title_separator          : "-"
 name                     : &name "H. Liu"
-description              : &description "personal description"
+description              : &description "Physics Ph.D. Student at Brown University"
 #url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #repository               : "academicpages/academicpages.github.io"
@@ -26,7 +26,7 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Barus&Holley, Providence, RI, 02903, USA"
+  location         : "Barus & Holley, Providence, RI, 02903, USA"
   employer         : "Brown University"
   uri              : # URL
   email            : "hongquan_liu@brown.edu" 
@@ -34,11 +34,11 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Yyo1ovUAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
