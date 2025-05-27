@@ -16,29 +16,20 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2024: Research Assistant
+  * Brown University
+  * Fractional Quantum Hall Effect
+  * Supervisor: Prof. Dima Feldman
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2023: Research Assistant
+  * Brown University
+  * Axion Cosmology
+  * Supervisor: Prof. JiJi Fan
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Spring 2020: Research Assistant
+  * New York University
+  * Duties included: Unconventional Superconductivity and Topological Insulator
+  * Supervisor: Prof. Hanghui Chen
 
 Publications
 ======
