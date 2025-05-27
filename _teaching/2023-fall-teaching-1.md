@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Brown University, Department of Physics"
-date: 2023-09 to 2023-12
+date: 2023-09
 location: "Providence, RI"
 ---
 
