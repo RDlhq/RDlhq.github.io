@@ -1,7 +1,6 @@
 ---
-title: "About"
-permalink: /about/
-layout: single
+layout: home
+title: "H. Liu"
 author_profile: true
 ---
 
