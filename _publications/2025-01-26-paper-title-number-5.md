@@ -1,5 +1,5 @@
 ---
-title: "Sensitive dependence of pairing symmetry on Ni-$$e_g$$ crystal field splitting in the nickelate superconductor La$$_3$$Ni$$_$2$O$$_7$$"
+title: "Sensitive dependence of pairing symmetry on Ni-$$e_g$$ crystal field splitting in the nickelate superconductor La$$_3$$Ni$$_2$$O$$_7$$"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-26-paper-title-number-5
