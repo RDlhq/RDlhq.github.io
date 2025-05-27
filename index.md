@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Home"
+title: "single"
 author_profile: true
 ---
 
