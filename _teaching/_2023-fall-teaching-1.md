@@ -2,7 +2,6 @@
 title: "TA for PHYS-2020"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2023-fall-teaching-1
 venue: "Brown University, Department of Physics"
 date: 2023-09-1
 location: "Providence, RI"
