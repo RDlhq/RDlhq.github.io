@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "H. Liu"
+title: "Home"
 author_profile: true
 ---
 
