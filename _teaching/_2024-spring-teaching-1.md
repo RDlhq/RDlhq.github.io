@@ -3,7 +3,7 @@ title: "TA for PHYS-0560"
 collection: teaching
 type: "Undergraduate course"
 venue: "Brown University, Department of Physics"
-date: 2024-01-20
+date: 2024-09-01
 location: "Providence, RI"
 ---
 
