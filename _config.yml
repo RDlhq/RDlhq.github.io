@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "H. Liu"
 description              : &description "Physics Ph.D. Student at Brown University"
 #url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+#baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -25,11 +25,11 @@ author:
   avatar           : "grad.JPG"
   name             : "H. Liu"
   pronouns         :  example: "he/him"  
-  bio              : "Physics Ph.D. Student at Brown University. Graduated BS in Honors Mathematics from NYU in 2023 "
-  location         : "Barus & Holley, Providence, RI, 02903, USA"
+  bio              : "Physics Ph.D. Student at Brown University"
+  location         : "Barus & Holley, Providence, RI"
   employer         : "Brown University"
   uri              : # URL
-  email            : "hongquan_liu@brown.edu" 
+  email            : "hongquan_liu_at_brown.edu" 
 
   # Academic websites
   #academia         : # URL
