@@ -1,7 +1,9 @@
 ---
-layout: home
-title: "single"
+layout: single
+title: "Tony Liu"
 author_profile: true
+sidebar:
+  nav: "about"
 ---
 
 ### Profile
@@ -20,4 +22,4 @@ Fractional Statistics and Superconductivity
 
 ### News
 
-- 2025/5/27 — Changed the Webpage
+- 2025/05/27 — Changed the Webpage
