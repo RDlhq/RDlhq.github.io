@@ -1,9 +1,8 @@
 ---
 layout: single
-title: "Home"
+title: "Tony Liu"
+permalink: /
 author_profile: true
-sidebar:
-  nav: "about"
 ---
 
 ### Profile
