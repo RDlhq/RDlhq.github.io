@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Tony Liu"
+title: "Home"
 author_profile: true
 sidebar:
   nav: "about"
