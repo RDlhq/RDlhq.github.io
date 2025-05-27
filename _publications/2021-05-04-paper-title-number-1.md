@@ -1,5 +1,5 @@
 ---
-title: "Manipulating Berry curvature of SrRuO\(_3\) thin films via epitaxial strain"
+title: "Manipulating Berry curvature of SrRuO$$_3$$ thin films via epitaxial strain"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-05-04-paper-title-number-1
