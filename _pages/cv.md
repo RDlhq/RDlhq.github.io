@@ -50,6 +50,14 @@ Patents
     {% include archive-single-cv.html %}
   {% endif %}
 {% endfor %}</ul>
+
+Honors and Awards
+======
+  * ΦΒΚ, 2023
+  * 美的冰箱校企联合创意大赛---一等奖(30,000 RMB)，最佳人气奖, 2021
+  * Best Research Project, Undergraduate Research Symposium, NYU Shanghai, 2020
+  * SRPP Funding (9,000 RMB $$\times 3$$), 2021,2022,2023
+
   
 
 
