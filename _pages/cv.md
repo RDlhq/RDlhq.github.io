@@ -34,15 +34,15 @@ Work experience
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% unless post.type == "patent" %}
+      {% include archive-single-cv.html %}
+    {% endunless %}
   {% endfor %}</ul>
   
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
-    {% unless post.type == "patent" %}
-      {% include archive-single-cv.html %}
-    {% endunless %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Patents
