@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Physics, Brown University, 2029 (expected)
+* Ph.D. in Physics, Brown University, 2029 (expected)
 * B.S. in Honors Mathematics, New York University, 2023
 
 Work experience
