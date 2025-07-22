@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "H. Liu"
+title: "Hongquan Liu"
 permalink: /
 author_profile: true
 ---
