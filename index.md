@@ -23,4 +23,5 @@ Fractional Statistics and Superconductivity
 
 ### News
 
-- 2025/05/27 — Changed the Webpage
+- 2025/05/27 — Changed the webpage
+- 2026/04/16 — Advanced to candidacy
