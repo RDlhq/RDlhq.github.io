@@ -9,4 +9,4 @@ paperurl: 'https://www.nature.com/articles/s41467-023-41236-3'
 Authors: Hanghui Chen, Yi-feng Yang, Guang-Ming Zhang, Hongquan Liu
 
 Personal Contributions:
-I built the 2-by-2 low energy effective Hamiltonian. 
+I built the 2-by-2 low energy effective Hamiltonian and the 2$$n$$-by-2$$n$$ low energy effective Hamiltonian from different unit cell extensions.
