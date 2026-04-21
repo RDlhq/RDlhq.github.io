@@ -7,3 +7,6 @@ permalink: /publication/2025-01-26-paper-title-number-5
 paperurl: 'https://www.nature.com/articles/s41467-025-56206-0'
 ---
 Authors: Chengliang Xia, Hongquan Liu, Shengjie Zhou, Hanghui Chen
+
+Personal Contributions (Co-Lead):
+I implemented the Fortran code for gap equations and calculated the superconducting pairing strenth for La$$_3$$Ni$$_2$$O$$_7$$ wannier models with different crystal field splittings.
