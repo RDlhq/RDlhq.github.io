@@ -7,3 +7,6 @@ permalink: /publication/2023-09-06-paper-title-number-3
 paperurl: 'https://www.nature.com/articles/s41467-023-41236-3'
 ---
 Authors: Hanghui Chen, Yi-feng Yang, Guang-Ming Zhang, Hongquan Liu
+
+Personal Contributions:
+I built the 2-by-2 low energy effective Hamiltonian. 
