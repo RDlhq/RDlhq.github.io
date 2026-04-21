@@ -23,7 +23,7 @@ Fractional Statistics and Superconductivity
 
 ### News
 
-- 2026/04/21 - New paper submitted to arXiv
+- 2026/04/21 — New paper submitted to arXiv
 - 2026/04/16 — Advanced to candidacy
 - 2025/05/27 — Updated the webpage
 
