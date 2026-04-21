@@ -3,7 +3,7 @@ title: "Probing bilayer topological order with layer-resolved transport"
 collection: publications
 category: manuscripts
 venue: "arXiv preprint"
-permalink: /publication/2025-01-26-paper-title-number-5
+permalink: /publication/2026-04-21-paper-title-number-6
 paperurl: 'https://arxiv.org/'
 ---
 Authors: Hongquan Liu, J.I.A. Li and D.E. Feldman
