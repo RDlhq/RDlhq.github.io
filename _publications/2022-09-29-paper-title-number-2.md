@@ -7,3 +7,6 @@ permalink: /publication/2022-09-29-paper-title-number-2
 paperurl: 'https://www.nature.com/articles/s41524-022-00894-5'
 ---
 Authors: Zhiwei Liu, Hongquan Liu, Jiaji Ma, Xiaoxuan Wang, Gang Li, Hanghui Chen
+
+Personal Contributions (Co-Lead):
+I built the 16-by-16 tight-binding model, calculated the surface states generated via SOC. 
