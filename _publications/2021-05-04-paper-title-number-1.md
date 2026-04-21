@@ -8,3 +8,5 @@ paperurl: 'https://www.pnas.org/doi/full/10.1073/pnas.2101946118'
 ---
 Authors: Di Tian, Zhiwei Liu, Shengchun Shen, Zhuolu Li, Yu Zhou, Hongquan Liu, Hanghui Chen, Pu Yu
 
+Personal Contributions:
+I constructed the SOC matrix in the model Hamiltonian.
