@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 venue: "arXiv preprint"
 permalink: /publication/2025-01-26-paper-title-number-5
-paperurl: 'https://www.nature.com/articles/s41467-025-56206-0'
+paperurl: 'https://arxiv.org/'
 ---
 Authors: Hongquan Liu, J.I.A. Li and D.E. Feldman
 
